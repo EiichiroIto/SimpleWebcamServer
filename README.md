@@ -18,6 +18,6 @@ config.h ファイルを見ればなんとなく設定方法がわかるでし�
 ビルドには Arduino-IDE を使います。Espressif の提供する esp32 ライブラリをインストールしてください。
 ビルドオプションは以下を指定する必要があります。
 
-ツール - ボード - esp32 - ESP32 Wrover Module
-ツール - Partition Scheme - Huge APP
+- ツール - ボード - esp32 - ESP32 Wrover Module
+- ツール - Partition Scheme - Huge APP
 
