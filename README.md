@@ -16,6 +16,8 @@ config.h ファイルを見ればなんとなく設定方法がわかるでし�
 利用するESP32カメラの種類は、cam_config.h を参照してください。
 
 ビルドには Arduino-IDE を使います。Espressif の提供する esp32 ライブラリをインストールしてください。
+参照→ ( https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html#installing-using-arduino-ide )
+
 ビルドオプションは以下を指定する必要があります。
 
 - ツール - ボード - esp32 - ESP32 Wrover Module
